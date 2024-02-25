@@ -1,9 +1,7 @@
 ### About.
 
-I am a machine learning PhD student at [Georgia Tech](https://ml.gatech.edu). I am also a researcher at 
-[DuckAI](https://duckai.org/), 
-[EleutherAI](https://www.eleuther.ai/), and 
-[CarperAI](https://carper.ai/). 
+I am a machine learning PhD student at [Georgia Tech](https://ml.gatech.edu). I am also a researcher affiliated with 
+[DuckAI](https://duckai.org/) and [EleutherAI](https://www.eleuther.ai/). 
 My current research interests center around 
 enhancing the reasoning capabilities of language models, 
 particularly in the realm of mathematical reasoning, 
